@@ -46,13 +46,13 @@ In an autonomous mobility-on-demand system a coordinated fleet of robotic taxis 
 We consider robotic taxis that can carry one customer. To compare different AMoD system operational policies, we introduce the following variables:
 
 \begin{align*}
-&d_E &= &\textnormal{ empty distance driven by the fleet} \\
-&d_C &= &\textnormal{ occupied distance driven by the fleet} \\
+&d_E &= &\text{ empty distance driven by the fleet} \\
+&d_C &= &\text{ occupied distance driven by the fleet} \\
 &d_T = d_C + d_E &= &\textnormal{ total distance driven by the fleet} \\
-&N &= &\textnormal{ fleet size} \\
-&R &= &\textnormal{ number of customer requests served} \\
-&w_i &= &\textnormal{ waiting time of request } i\in \{1,...,R\} \\
-&W &= &\textnormal{ total waiting time } W = \sum_{i=1}^{R} w_i 
+&N &= &\text{ fleet size} \\
+&R &= &\text{ number of customer requests served} \\
+&w_i &= &\text{ waiting time of request } i\in \{1,...,R\} \\
+&W &= &\text{ total waiting time } W = \sum_{i=1}^{R} w_i 
 \end{align*}
 
 
